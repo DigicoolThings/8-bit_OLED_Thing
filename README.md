@@ -8,3 +8,4 @@ Firmware is programmed via the SWIM interface, using a ST-LINK V2 USB Programmer
 
 Handout provides board connections and operating modes.
 
+![8-bit_OLED_Thing_Handout](8-bit%20OLED%20Thing%20-%20Handout.png)
